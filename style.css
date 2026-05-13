@@ -19,14 +19,6 @@ a consistent look and feel.
     color: #90EE90;
 }
 
-.irish-letters {
-  background: linear-gradient(to right, #169B62, #FFFFFF, #FF883E);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-    font-size: 2rem;
-    text-transform: uppercase;
-}
-
 body {
     background-color: black;
     font-family: "Courier New", serif;
